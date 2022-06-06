@@ -25,7 +25,8 @@ h2 {
 }
 
 h2::before {
-    content: '';position: absolute;
+    content: '';
+    position: absolute;
 }
 
 h2 span {
