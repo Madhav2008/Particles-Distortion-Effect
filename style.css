@@ -30,7 +30,7 @@ h2::before {
     left: 0;
     width: 120%;
     height: 100%;
-    background: linear-gradient(90deg,transparent);
+    background: linear-gradient(90deg, transparent);
 }
 
 h2 span {
