@@ -39,5 +39,7 @@ h2 span {
 }
 
 @keyframes animate {
-    0% {left: 120%;}
+    0% {
+        left: 120%;
+    }
 }
