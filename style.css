@@ -38,4 +38,4 @@ h2 span {
     color: #ff022c;
 }
 
-@keyframes animate {0% }
+@keyframes animate {0% {}}
