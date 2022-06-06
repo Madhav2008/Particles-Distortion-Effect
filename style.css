@@ -38,7 +38,7 @@ h2 span {
     color: #ff022c;
 }
 
-video {}
+video {position: absolute;}
 
 @keyframes animate {
     0% {
