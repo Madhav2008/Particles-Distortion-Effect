@@ -28,7 +28,8 @@ h2::before {
     content: '';
     position: absolute;
     left: 0;
-    width: 120%;height: 100%;
+    width: 120%;
+    height: 100%;
 }
 
 h2 span {
