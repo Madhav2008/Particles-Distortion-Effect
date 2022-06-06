@@ -39,7 +39,8 @@ h2 span {
 }
 
 video {
-    position: absolute;top: 0;
+    position: absolute;
+    top: 0;
 }
 
 @keyframes animate {
