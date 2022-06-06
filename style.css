@@ -24,7 +24,9 @@ h2 {
     overflow: hidden;
 }
 
-h2::before {content: '';}
+h2::before {
+    content: '';
+}
 
 h2 span {
     color: #ff022c;
