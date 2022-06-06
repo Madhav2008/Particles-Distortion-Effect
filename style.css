@@ -24,4 +24,6 @@ h2 {
     overflow: hidden;
 }
 
-h2 span {color: #ff022c;}
+h2 span {
+    color: #ff022c;
+}
