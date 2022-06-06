@@ -20,5 +20,6 @@ h2 {
     font-size: 4em;
     font-weight: 900;
     color: #fff;
-    z-index: 1;overflow: hidden;
+    z-index: 1;
+    overflow: hidden;
 }
