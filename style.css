@@ -47,7 +47,7 @@ video {
     object-fit: cover;
     z-index: 2;
     pointer-events: none;
-    mix-blend-mode: ;
+    mix-blend-mode: screen;
 }
 
 @keyframes animate {
