@@ -22,7 +22,7 @@ h2 {
     color: #fff;
     z-index: 1;
     overflow: hidden;
-}h2::before 
+}h2::before {}
 
 h2 span {
     color: #ff022c;
