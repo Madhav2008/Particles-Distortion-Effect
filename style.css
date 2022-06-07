@@ -59,6 +59,6 @@ video {
 
     100% {
         left: -20%;
-        right: -100%;
+        right: 100%;
     }
 }
