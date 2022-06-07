@@ -54,7 +54,6 @@ video {
 @keyframes animate {
     0% {
         left: 110%;
-        right: -100%;
     }
 
     100% {
