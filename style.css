@@ -32,7 +32,7 @@ h2::before {
     height: 100%;
     background: linear-gradient(90deg, transparent 0%, #000 5%, #000 100%);
     animation: animate 5.5s linear forwards;
-    animation-delay: 2s;
+    animation-delay: 1s;
 }
 
 h2 span {
